@@ -18,6 +18,7 @@ object3.value; //10
 
 
 /*-------Context-------*/
+
 const object4 = {
 	a: function(){
 		console.log(this);
@@ -25,6 +26,9 @@ const object4 = {
 }
 
 object4.a();
+
+
+
 
 /*--------Instantiation--------*/
 
