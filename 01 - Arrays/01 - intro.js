@@ -18,3 +18,5 @@ console.log(strings); // O(n)
 // Splice(position,deleteElement,element) -> to add element somewhere in between
 strings.splice(2, 0, "alien"); // O(n/2) => O(n)
 console.log(strings);
+
+console.log(Math.pow(2,25))
